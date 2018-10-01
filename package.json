@@ -1,0 +1,42 @@
+{
+    "name": "NodejsSample",
+    "version": "0.1.0",
+    "description": "NodeJSSample",
+    "main": "parsexml.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+    },
+    "repository": "",
+    "dependencies": {
+        "arraylist": "^0.1.0",
+        "chai": "^4.1.2",
+        "date-and-time": "^0.6.2",
+        "events": "^3.0.0",
+        "express": ">= 1.2.0",
+        "good": "^7.1.0",
+        "good-console": "^6.4.0",
+        "good-squeeze": "^5.0.1",
+        "hapi": "^16.1.0",
+        "hapi-swagger": "^7.7.0",
+        "hashmap": "^2.3.0",
+        "http-status": "^1.2.0",
+        "inert": "^4.1.0",
+        "js-hibernate": "^1.0.14",
+        "mocha": "^5.2.0",
+        "mongodb": "^3.1.4",
+        "mssql": "^4.2.1",
+        "reqeust": "^2.81.1",
+        "request": "^2.88.0",
+        "vision": "^4.1.1",
+        "winston": "^2.4.3",
+        "xml2js": "^0.4.19"
+    },
+    "keywords": [
+        "node.js",
+        "eclipse",
+        "nodeclipse"
+    ],
+    "author": "",
+    "license": "MIT",
+    "readmeFilename": "README.md"
+}
